@@ -1,4 +1,4 @@
-# Project Name
+# Sample Data
 
 This project is a collection of test data files in various formats, including CSV and JSON. Some of the data has been sourced from the following repositories:
 
@@ -17,6 +17,3 @@ To use this project, simply clone the repository to your local machine and navig
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. All contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
